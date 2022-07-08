@@ -58,3 +58,4 @@ workflows:
       - analyze:
         requires:
           - test
+          
